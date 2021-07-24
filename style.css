@@ -1,0 +1,22 @@
+body{
+    margin: 0 0;
+}
+.container{
+    background-image:url(images/Banner/header.png);
+}
+.logo{
+    display: flex;
+    justify-content: center;
+
+}
+.nav-bar{
+    display: flex;
+    border: 2px solid gold;
+align-items: center;
+    justify-content: space-around;
+}
+.nav-items a {
+text-decoration: none;
+color: black;
+margin-left: 10px;
+}
